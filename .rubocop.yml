@@ -1,0 +1,6 @@
+Documentation:
+  Enabled: false
+AllCops:
+  Excludes:
+    - output_files/**
+    - Gemfile
